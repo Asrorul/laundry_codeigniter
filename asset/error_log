@@ -1,0 +1,5 @@
+[31-Jan-2017 04:14:35 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/dipotrad/siavo.dipotrading.com/excel_reader2.php on line 916
+[31-Jan-2017 04:20:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dipotrad/siavo.dipotrading.com/excel_reader2.php:916) in /home/dipotrad/siavo.dipotrading.com/jalan.php on line 25
+[31-Jan-2017 06:31:51 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/dipotrad/siavo.dipotrading.com/koneksi.php on line 6
+[31-Jan-2017 06:32:26 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/dipotrad/siavo.dipotrading.com/koneksi.php on line 6
+[31-Jan-2017 06:34:40 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/dipotrad/siavo.dipotrading.com/koneksi.php on line 6
